@@ -30,10 +30,10 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 </head>
-<body class="hold-transition login-page" style="background-color:#aaaaaa;">
+<body class="hold-transition login-page" style="background-color:#d6d6d6;">
 <div class="login-box">
   <div class="login-logo">
-    <img src="/images/busoes.png"  href="/login" class="user-image" alt="User Image" width= "320" height= "100"/>
+    <img src="/images/busoes.png"  href="/login" class="user-image" alt="User Image" width= "320" height= "100" />
     <p><h4>Sistema Gerenciador de Passagens Rodoviárias</h4></p>
   </div>
   <!-- /.login-logo -->
