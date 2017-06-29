@@ -11,12 +11,12 @@
 |
 */
 
-//Route::get('/', 'HomeController@index');
-
+Route::get('/', 'HomeController@index');
+/*
 Route::get('/', function () {
      return view('welcome');
 });
-
+*/
 Route::get('/admin', function () {
     return view('admin_tamplate');
 });
